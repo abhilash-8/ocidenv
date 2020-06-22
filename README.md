@@ -3,7 +3,7 @@ ocidenv is a script that will generate a ocidtab file , the generated ocidtab fi
 source the required Environment Variables 
 
 # ocidenv Notes
- The script will need to provide the following
+ The ocidenv script will need to provide the following
   1) OCI Config Path
   2) OCI Profile 
   3) OCI Compartment 
