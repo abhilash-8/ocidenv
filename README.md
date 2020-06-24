@@ -9,7 +9,7 @@ The following prerequisites are needed to use the ocidenv
   3) OCI Compartment 
   4) OCI VCN Name
   5) jq to be installed in Linux 
-     $ sudo yum install jq
+      $ sudo yum install jq
   6) The OCI User in the profile will need to have the required IAM Policies for OCI Services to generate the OCID     
   
 # ocidenv syntax
