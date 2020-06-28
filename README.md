@@ -12,10 +12,10 @@ The following prerequisites are needed to use the ocidenv
     $ sudo yum install jq
   6) The OCI User in the profile will need to have the required IAM Policies for OCI Services to generate the OCID     
   
-# ocidenv syntax
+# ocidenv syntax to generate ocidtab 
 $ . ./ocidenv.sh <config_file_path> <oci_profile> <compartment_name> <vcn_name> && env | grep OCID
 
-# ocidtab files usage
+# ocidtab usage
 The ocidenv.sh output will generate ocidtab files 
 
 for e.g.
