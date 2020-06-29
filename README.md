@@ -20,6 +20,7 @@ The ocidenv.sh output will generate ocidtab files
 
 for e.g.
 $ . ./ocidenv.sh ~/.oci/config DEV-PROFLE1 DEV-COMP1 DEV-VCN1 && env | grep OCID
+
 This command will generate a ocidtab file ~/.DEV-PROFLE1-ocidtab which can be sourced as Environment Variable files or shell scripts 
 
 $ . .DEV-PROFLE1-ocidtab
