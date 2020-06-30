@@ -3,7 +3,7 @@
 #Script Name	: ocidenv.sh                                                                                             
 #Description	: Generates a ocidtab file      
 #Args           : ocidenv.sh <config_file_path> <oci_profile> <compartment_name> <vcn_name>                                                                                          
-#Author       	: Aaron Kili Kisinga                                                
+#Author       	: Abhilash Kumar Bhattaram
 #Email         	: abhilash8@gmail.com                                           
 ############################################################################################
 PROFILE_FILE=${1}
