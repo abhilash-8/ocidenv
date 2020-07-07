@@ -4,7 +4,8 @@
 #Description	: Generates a ocidtab file      
 #Args           : ocidenv.sh <config_file_path> <oci_profile> <compartment_name> <vcn_name>                                                                                          
 #Author       	: Abhilash Kumar Bhattaram
-#Email         	: abhilash8@gmail.com                                           
+#Email         	: abhilash8@gmail.com     
+#GitHb		: https://github.com/abhilash-8/ocidenv
 ############################################################################################
 PROFILE_FILE=${1}
 PROFILE_NAME=${2}
