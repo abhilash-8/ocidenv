@@ -34,6 +34,6 @@ In the above ehe $CONFIG_PROFILE and $TENANCY_OCID variable will be sourced from
 
 # NOTE
 The ocidenv script comes with absolutely no gurantee , due diligence is needed for setting up the required ocidtab environment files.
-Kindly refrence the usage orginal version 
+
 
   
