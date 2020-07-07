@@ -32,5 +32,8 @@ $ oci iam availability-domain list -c $TENANCY_OCID --output table --profile $CO
 In the above ehe $CONFIG_PROFILE and $TENANCY_OCID variable will be sourced from the ocidtab file  .DEV-PROFLE1-ocidtab
 
 
+# NOTE
+The ocidenv script comes with absolutely no gurantee , due diligence is needed for setting up the required ocidtab environment files.
+Kindly refrence the usage orginal version 
 
   
