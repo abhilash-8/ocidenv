@@ -1,6 +1,6 @@
 # ocidenv
 ocidenv is a script that will generate a ocidtab file , the generated ocidtab file can be used to 
-source the required Environment Variables 
+source the required OCID Environment Variables 
 
 # ocidenv prerequisites
 The following prerequisites are needed to use the ocidenv
